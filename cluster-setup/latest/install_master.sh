@@ -2,7 +2,7 @@
 
 # Source: http://kubernetes.io/docs/getting-started-guides/kubeadm
 
-KUBE_VERSION=1.22.2
+KUBE_VERSION=1.22.4
 
 
 ### setup terminal
